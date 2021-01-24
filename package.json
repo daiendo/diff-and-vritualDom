@@ -1,0 +1,20 @@
+{
+  "name": "diffandvirtualdom",
+  "version": "1.0.0",
+  "description": "diff算法和vritualDom",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "keywords": [
+    "diff"
+  ],
+  "author": "daiend",
+  "license": "ISC",
+  "devDependencies": {
+    "snabbdom": "^2.1.0",
+    "webpack": "^5.16.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
